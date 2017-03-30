@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="XYExcelReader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/XYExcelReader_jar</output-path>
+    <root id="archive" name="XYExcelReader.jar">
+      <element id="module-output" name="XYExcelReader" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../操作Ecxel/操作Ecxel/poi-3.7/poi-3.7/dom4j-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../操作Ecxel/操作Ecxel/poi-3.7/poi-3.7/xmlbeans-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../操作Ecxel/操作Ecxel/poi-3.7/poi-3.7/poi-3.7-20101029.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../操作Ecxel/操作Ecxel/poi-3.7/poi-3.7/poi-ooxml-3.7-20101029.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../操作Ecxel/操作Ecxel/poi-3.7/poi-3.7/poi-examples-3.7-20101029.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../操作Ecxel/操作Ecxel/poi-3.7/poi-3.7/poi-scratchpad-3.7-20101029.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../操作Ecxel/操作Ecxel/poi-3.7/poi-3.7/geronimo-stax-api_1.0_spec-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../操作Ecxel/操作Ecxel/poi-3.7/poi-3.7/poi-ooxml-schemas-3.7-20101029.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
